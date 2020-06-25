@@ -1,0 +1,6 @@
+server/node_modules
+server/.env
+server/mini-wp-968a33ae9b3e.json
+client/node_modules
+client/.cache
+client/dist
